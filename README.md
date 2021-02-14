@@ -6,7 +6,7 @@
 
 A e-commerce back end
 
-![image]()
+![image](https://user-images.githubusercontent.com/70044796/107886081-d915f780-6eba-11eb-846b-3d42a8889100.png)
 ## Contents
 * [installing](#Installing)
 * [Usage](#Usage)
@@ -25,7 +25,7 @@ A e-commerce back end
 <br />
 
 ## Usage
-Click here to view demo: [Demo]()
+Click here to view demo: [Demo](https://drive.google.com/file/d/1jyqeHIDKZZZsbdQYmQJgTeOcPlovAeWo/view)
 - The user should run "npm start" to deploy the server
   - Insomnia core should be used for testing the api endpoints
 
